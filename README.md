@@ -4,12 +4,6 @@ In an effort to assist my team at bidCHUCK.com, I’m compiling a collection of 
 ### Table of Contents
 <ol type="I">
     <li>
-        <h4>Subscriptions</h4>
-        <ul>
-            <li>Create Subscription</li>
-        </ul>
-    </li>
-    <li>
         <h4>Customers</h4>
         <ul>
             <li>Create Customer</li>
@@ -19,6 +13,12 @@ In an effort to assist my team at bidCHUCK.com, I’m compiling a collection of 
         <h4>Payment Methods</h4>
         <ul>
             <li>Create Payment Method</li>
+        </ul>
+    </li>
+    <li>
+        <h4>Subscriptions</h4>
+        <ul>
+            <li>Create Subscription</li>
         </ul>
     </li>
 </ol>
