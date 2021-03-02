@@ -4,6 +4,15 @@ In an effort to assist my team at bidCHUCK.com, I’m compiling a collection of 
 ### Table of Contents
 <ol type="I">
     <li>
+        <h4>Customers</h4>
+        <p>
+            <em>A customer is associated with payment-related objects and with subscriptions. Payment and subscription information is added to the customer object.</em>
+        </p>
+        <ul>
+            <li><a href="https://stripe.com/docs/api/customers">More Info</a></li>
+        </ul>
+    </li>
+    <li>
         <h4>Invoices</h4>
         <p>
             <em>An invoice is a statement of amounts owed by a customer, generated automatically from a subscription. You track subscription provisioning with products, and payment with invoices.</em>
