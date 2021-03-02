@@ -3,8 +3,8 @@ In an effort to assist my team at bidCHUCK.com, I’m compiling a collection of 
 
 ### Table of Contents
 * Subscriptions
-..* Create Subscription
+⋅⋅* Create Subscription
 * Customers
-..* Create Customer
+⋅⋅* Create Customer
 * Payment Methods
-..* Create Payment Method
+⋅⋅* Create Payment Method
